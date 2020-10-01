@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class orderedlist<D> implements List<D>{
     Integer size = 0;
     Integer buffer = 10;
